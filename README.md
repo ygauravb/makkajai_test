@@ -90,8 +90,8 @@ Usage
 
 To run solution, type ```python3 sales_taxes.py [PATH TO ORDER FILE]```, for example:
 
-To test input 1: ```python3 sales_taxes.py order_1.txt```
+To test input 1: ```python3 sales_taxes.py test_case1.txt```
 
-To test input 2: ```python3 sales_taxes.py order_2.txt```
+To test input 2: ```python3 sales_taxes.py test_case2.txt```
 
-To test input 3: ```python3 sales_taxes.py order_3.txt```
+To test input 3: ```python3 sales_taxes.py test_case3.txt```
